@@ -1,3 +1,5 @@
+// 2020.9.23 AtCoder Q1 https://atcoder.jp/contests/past202005-open/tasks/past202005_a
+// failed part of the test cases
 #include <bits/stdc++.h>
 using namespace std;
 int main () {
